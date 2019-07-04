@@ -1,5 +1,5 @@
 print ""
-#print m +"server maintenance"+ n
-#print b +"please update"+ n
+#print "server maintenance"
+#print "please update"
 #print ""
 #os.system ("exit")
