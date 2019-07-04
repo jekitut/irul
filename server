@@ -1,3 +1,3 @@
 #jekitut()
-print m +"!!! "+ tebal +"server maintenance"+ n + m +"!!!"+ n +"\n"+ b +"  !!! "+ miring +"please update"+ n + b +"!!!  "+ n +"\n"
+print m +"!!! "+ tebal +"server maintenance"+ n + m +"!!!"+ n +"\n"+ b +"  !!! "+ miring +"please update"+ n + b +" !!!  "+ n +"\n"
 os.system ("exit")
