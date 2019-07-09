@@ -1,2 +1,2 @@
 #jekitut()
-jalan(m +"\r!!! "+ tebal +"server maintenance"+ n + m +" !!!                        ."+ n +"\n"+ b +"!!! "+ miring +"please update soon"+ n + b +" !!!"+ n +"\n");os.system ("exit")
+jalan(m +"\r!!! "+ tebal +"server maintenance"+ n + m +" !!!                             ."+ n +"\n"+ b +"!!! "+ miring +"please update soon"+ n + b +" !!!"+ n +"\n");os.system ("exit")
