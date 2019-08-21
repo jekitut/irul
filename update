@@ -1,6 +1,13 @@
 hari = "Rabu, 21 Agustus 2019"
 jam = "12:00:00"
 
-#####
+
+
+
+
+
+
+
+
 
 print k +"\rPembaruan"+ n +"    : "+ b + hari + u +" ║ "+ b + jam
