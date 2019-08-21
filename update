@@ -1,1 +1,3 @@
-Rabu, 21 Agustus 2019
+irul = "Rabu, 21 Agustus 2019"
+
+print k +"\rPembaruan"+ n +" : "+ irul + u +" | "+ n +"10:00:00"
