@@ -1,3 +1,4 @@
+termux-vibrate
 clear
 pkg update -y
 pkg upgrade -y
