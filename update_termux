@@ -3,6 +3,7 @@ clear
 pkg update -y
 pkg upgrade -y
 pkg install bash -y
+pkg install clang -y
 pkg install curl -y
 pkg install figlet -y
 pkg install grep -y
